@@ -1,0 +1,81 @@
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.AssemblyReference.cache
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Livraria.resources
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Properties.Resources.resources
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.GenerateResource.cache
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfoInputs.cache
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfo.cs
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.exe
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.deps.json
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.runtimeconfig.json
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.pdb
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CopyComplete
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\refint\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.pdb
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.genruntimeconfig.cache
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\ref\Livraria.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.exe
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.deps.json
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.runtimeconfig.json
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.pdb
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Livraria.resources
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Properties.Resources.resources
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.GenerateResource.cache
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfoInputs.cache
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfo.cs
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CopyComplete
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\refint\Livraria.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.pdb
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.genruntimeconfig.cache
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\ref\Livraria.dll
+C:\Users\Windows 10\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Login.resources
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.exe
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.deps.json
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.runtimeconfig.json
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Livraria.pdb
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.AssemblyReference.cache
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Livraria.resources
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Login.resources
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Properties.Resources.resources
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.GenerateResource.cache
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfoInputs.cache
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.AssemblyInfo.cs
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.csproj.CopyComplete
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\refint\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.pdb
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.genruntimeconfig.cache
+C:\Users\12303449693\Desktop\Projeto_Final-main\Livraria\Livraria\obj\Debug\net6.0-windows\ref\Livraria.dll
+C:\Users\12303449693\Desktop\Projeto_Final\Livraria\Livraria\obj\Debug\net6.0-windows\Livraria.Login.resources
